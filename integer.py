@@ -17,7 +17,7 @@ def main():
     # check if number is negative
     elif user_num < 0:
         print(f"{user_num} is a negative number.")
-    
+
     # if number is positive
     else:
         print(f"{user_num} is a positive number")
